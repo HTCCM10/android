@@ -19,4 +19,4 @@ Build code
     . build/envsetup.sh && brunch shootervm
 
 To setup your build enviornment please check out the following site
-https://code.google.com/p/htc-evov4g/wiki/EnvironmentSetup
+https://code.google.com/p/htc-evov4g/w/list
