@@ -44,7 +44,6 @@
   <!-- Shootervm Device Files -->
   <project path="device/htc/msm8660-common" name="HTCCM10/android_device_htc_msm8660-common" />
   <project path="device/htc/shootervm" name="HTCCM10/android_device_htc_shootervm" />
-  <project path="kernel/htc/msm8660" name="CyanogenMod/android_kernel_htc_msm8660" revision="refs/tags/cm-10.1-ds" />
   <project path="vendor/htc" name="CyanogenMod/android_vendor_htc" />
   <!-- END Shootervm Device Files --> 
 
